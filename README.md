@@ -5,7 +5,7 @@ MindSense is an innovative solution that combines AI and EEG(electroencephalogra
 ---
 
 ## 🚀 Deliverables
-* 📝 **Real-time Website:** [View 1-Page Design Process Reflection](https://looiyuxiang.github.io/MindSenseSimpleDashboard/)
+* 📝 **Real-time Website:** [Click Here](https://looiyuxiang.github.io/MindSenseSimpleDashboard/)
 
 ---
 
